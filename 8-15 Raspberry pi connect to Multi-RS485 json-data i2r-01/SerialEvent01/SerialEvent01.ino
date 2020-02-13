@@ -1,5 +1,5 @@
 #include <ArduinoJson.h>
-//json을 위한 설정
+//json을 위한 설ㅇ정
 StaticJsonDocument<200> doc;
 DeserializationError error;
 JsonObject root;
